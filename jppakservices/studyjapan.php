@@ -144,6 +144,42 @@
 
 
 
+          <h2>General Requirements <br> Business Consulting Services</h2>
+
+        <table style="width:100%; border-spacing:0;">
+          <tr><th>Required Documents</th><th>Description</th></tr>
+          <tr><td>Statement of Reason </td><td>The reason for applying to the desired program or course. <br>(Approx. 400 words)</td></tr>
+           <tr><td>Services</td><td> Recently we have begun offering extended Japan focused business consulting services to our clients who have been asking for more than just visa and incorporation services.
+
+Using our network and experience we can now help your company grow and make the best decisions.
+
+Our Business Consulting services adapt to your needs, the first meeting is free and there is no obligation to use our services, we simply want to make your business grow and remove the stress of doing business here in Japan.
+
+Our Business Consulting Services Include
+Introducing Accounting, Social Security, Trademark and Real Estate Specialists - we do not handle these services directly but will be able to introduce you to our trusted partners with whom we work on a regular basis.
+Market Entry & Business Consulting Services
+Logistic Support for Import and Sales of Alcohol for Your Own Test Marketing Purpose
+Executive Search & Recruitment Consulting. </td></tr>
+          <tr><td>Application Essay </td><td>  600 words</td></tr>
+          <tr><td>Total Investment</td><td> 5 Million Yen</td></tr>
+          <tr><td>Lawyer Fees With Complete Business Setup etc </td><td>3000 -5000 USD </td></tr>
+
+<tr><td>Scholarships</td><td>   The recipients and amount of the tuition reduction scholarship will be determined based on the applicants screening
+                                 results.<br>
+                                 Undergraduate I 100%
+                                 Undergraduate II 50%
+                                 Undergraduate III 20%
+           <tr><td>Contact Us</td><td>WhatsApp: +81-702-8058-303, Email: jppakservices@gmail.com,<br> 203 3-40-6 Higashiyagura Kusatsu ShigaKen Japan</td></tr>
+
+        </table>
+
+
+
+
+
+
+
+
 
 
 
@@ -202,42 +238,16 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
       </div>
     </div>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <div id="content_footer"></div>
-    <div id="footer">
-      <p><a href="index.html">Home</a> | <a href="examples.html">Examples</a> | <a href="page.html">A Page</a> | <a href="another_page.html">Another Page</a> | <a href="contact.html">Contact Us</a></p>
-      <p>Copyright &copy; textured_orbs | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="http://www.html5webtemplates.co.uk">Website templates</a></p>
+      <div id="footer">
+      <p><a href="index.html">Home</a> | <a href="">Study in Japan</a> | <a href="page.html">Working in Japan</a> | <a href="another_page.html">Visa Guidance</a> | <a href="contact.html">Contact Us</a></p>
+      <p>Copyright &copy; JPSP | <a href="">Pakistan Emabssy in Japan</a> | <a href="">Ministry of Foriegn Affairs Pakistan</a> | <a href="">JAPAN PAKISTAN</a></p>
     </div>
   </div>
 </body>

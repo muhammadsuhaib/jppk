@@ -24,7 +24,7 @@
           <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
           <li class="selected"><a href="index.php">Home</a></li>
           <li><a href="studyjapan.php">Study in Japan</a></li>
-          <li><a href="another_page.html">Another Page</a></li>
+          <li><a href="another_page.html">Highly Skilled Foriegn Professional</a></li>
           <li><a href="contact.html">Contact Us</a></li>
         </ul>
       </div>
@@ -83,16 +83,17 @@
 
 
         <p>We are glad to welcome you to JPSP website! It is rather content-rich and provides you with tons of information on all study in JAPAN and university admissions matters and business setup in JAPAN.<br> <br> </p>
-        <p>test</a>.</p>
-          <p> test </p>
+         <div> 
+        <img src="tokyo.jpg"> <img src="osaka.jpg"> <img src="chicago.jpg">
+ </div>
 
 
       </div>
     </div>
     <div id="content_footer"></div>
     <div id="footer">
-      <p><a href="index.html">Home</a> | <a href="examples.html">Examples</a> | <a href="page.html">A Page</a> | <a href="another_page.html">Another Page</a> | <a href="contact.html">Contact Us</a></p>
-      <p>Copyright &copy; textured_orbs | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="http://www.html5webtemplates.co.uk">Website templates</a></p>
+      <p><a href="index.html">Home</a> | <a href="">Study in Japan</a> | <a href="page.html">Working in Japan</a> | <a href="another_page.html">Visa Guidance</a> | <a href="contact.html">Contact Us</a></p>
+      <p>Copyright &copy; JPSP | <a href="">Pakistan Emabssy in Japan</a> | <a href="">Ministry of Foriegn Affairs Pakistan</a> | <a href="">JAPAN PAKISTAN</a></p>
     </div>
   </div>
 </body>
